@@ -1,0 +1,61 @@
+cheats = 15
+
+cheat0_desc = "Enable Code (Must Be On)"
+cheat0_code = "00001086+000A+10002300+0007"
+cheat0_enable = false
+
+cheat1_desc = "Unlimited Spit Powers"
+cheat1_code = "33006E70+000F"
+cheat1_enable = false
+
+cheat2_desc = "5/5 Flowers"
+cheat2_code = "73006B04+0D00+33006A9A+0005"
+cheat2_enable = false
+
+cheat3_desc = "20/20 Red Coins"
+cheat3_code = "73006B04+0D00+33006AD6+0014"
+cheat3_enable = false
+
+cheat4_desc = "30/30 Stars"
+cheat4_code = "73006B04+0D00+83006ACE+0135"
+cheat4_enable = false
+
+cheat5_desc = "Have All Items"
+cheat5_code = "8300628A+0201+8300628C+0403+8300628E+0605+83006290+0807+33006292+0009"
+cheat5_enable = false
+
+cheat6_desc = "Inf. Flutter"
+cheat6_code = "73006DD0+0000+83006DD0+0004"
+cheat6_enable = false
+
+cheat7_desc = "Inf. Lives"
+cheat7_code = "3300627E+0009"
+cheat7_enable = false
+
+cheat8_desc = "Max Score for All Levels"
+cheat8_code = "43006B08+6464+00000024+0002"
+cheat8_enable = false
+
+cheat9_desc = "Moon Jump (Press A)"
+cheat9_code = "D0000020+0001+33006D8C+0080"
+cheat9_enable = false
+
+cheat10_desc = "Skip Level (Press Start + L)"
+cheat10_code = "74000130+01F7+33006B05+0023"
+cheat10_enable = false
+
+cheat11_desc = "Stop Countdown"
+cheat11_code = "73006F2A+0000+83006F2A+8000"
+cheat11_enable = false
+
+cheat12_desc = "Transparent"
+cheat12_code = "33006F52+0030"
+cheat12_enable = false
+
+cheat13_desc = "Unlock All Extras"
+cheat13_code = "4202C8A4+03E8+00000006+0002"
+cheat13_enable = false
+
+cheat14_desc = "Unlock All Levels"
+cheat14_code = "43006B6E+0101+00000022+0002"
+cheat14_enable = false
